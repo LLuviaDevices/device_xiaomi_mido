@@ -1,17 +1,17 @@
 [
  {
-  "repository": "LLuviaDevices/device_xiaomi_msm8953-common",
-  "target_path": "device/xiaomi/msm8953-common",
-  "branch": "8.1"
+  "repository"  : "LLuviaDevices/device_xiaomi_msm8953-common",
+  "target_path" : "device/xiaomi/msm8953-common",
+  "branch"      : "8.1"
  },
  {
-  "repository": "AliHasan96/proprietary_vendor_xiaomi",
-  "target_path": "vendor/xiaomi",
-  "branch": "oreo-mr1"
+  "repository"  : "AliHasan96/proprietary_vendor_xiaomi",
+  "target_path" : "vendor/xiaomi",
+  "branch"      : "oreo-mr1"
  },
  {
-  "repository": "Adesh15/android_kernel_xiaomi_msm8953",
-  "target_path": "kernel/xiaomi/msm8953",
-  "branch": "oreo-mr1"
+  "repository"  : "Adesh15/android_kernel_xiaomi_msm8953",
+  "target_path" : "kernel/xiaomi/msm8953",
+  "branch"      : "oreo-mr1"
  },
 ]
