@@ -18,7 +18,7 @@ $(call inherit-product, device/xiaomi/mido/full_mido.mk)
 
 # Inherit some common stuff.
 $(call inherit-product, vendor/lluvia/config/common_full_phone.mk)
-$(call inherit-product, vendor/lluvia/config/caf_fw.mk)
+#$(call inherit-product, vendor/lluvia/config/caf_fw.mk)
 
 PRODUCT_NAME := lluvia_mido
 BOARD_VENDOR := Xiaomi
