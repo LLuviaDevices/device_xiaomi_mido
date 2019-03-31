@@ -1,20 +1,14 @@
 [
  {
-  "remote": "LLuviaDevices",
   "repository": "device_xiaomi_msm8953-common",
-  "target_path": "device/xiaomi/msm8953-common",
-  "revision": "3.0"
+  "target_path": "device/xiaomi/msm8953-common"
  },
  {
-  "remote": "LLuviaDevices",
   "repository": "proprietary_vendor_xiaomi",
-  "target_path": "vendor/xiaomi",
-  "revision": "3.0"
+  "target_path": "vendor/xiaomi"
  },
  {
-  "remote": "LLuviaDevices",
   "repository"  : "kernel_xiaomi_msm8953",
-  "target_path" : "kernel/xiaomi/msm8953",
-  "revision": "3.0"
+  "target_path" : "kernel/xiaomi/msm8953"
  },
 ]
